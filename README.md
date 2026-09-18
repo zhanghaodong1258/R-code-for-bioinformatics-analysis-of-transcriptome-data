@@ -1,1 +1,1 @@
-# R-code-for-bioinformatics-analysis-of-transcriptome-data
+# R code for bioinformatics analysis of transcriptome data
